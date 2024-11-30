@@ -1,5 +1,4 @@
 # Youtube-Video-Downloader
-# Youtube-Video-Downloader
 Required Interpreter: Python 3
 Required VS Code Extension: Code Runner
 Required module: yt-dlp
